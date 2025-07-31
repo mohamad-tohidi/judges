@@ -1,4 +1,5 @@
 # judges ‍⚖️
+<a target="_blank" href="https://discord.com/invite/YeJzANpntv"><img src="https://dcbadge.limes.pink/api/server/YeJzANpntv" alt="" /></a>
 
 1. [Overview](#overview)
 2. [Installation](#installation)
@@ -23,7 +24,7 @@
    - [Grader](#graders) 
 
 
-## Overview
+## Overview 
 `judges` is a small library to use and create LLM-as-a-Judge evaluators. The purpose of `judges` is to have a curated set of LLM evaluators in a low-friction format across a variety of use cases that are backed by research, and can be used off-the-shelf or serve as inspiration for building your own LLM evaluators.
 
 ## Installation
